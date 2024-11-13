@@ -1,0 +1,12 @@
+-GIT-
+cd [to file location]
+git init
+git config --global user.name "Plasmaguy"
+git config --global user.email "jrjr3000@outlook.com"
+
+-PACKAGING-
+npm init
+
+-ELEVENTY-
+npm install @11ty/eleventy --save-dev
+npx @11ty/eleventy --serve
