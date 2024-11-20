@@ -1,8 +1,10 @@
 body {
   margin: 5%;
-  background-color: beige;
-  color: rgb(37, 16, 58);
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  background-color: rgb(242, 237, 223);
+  color:rgb(37, 16, 58);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /*# sourceMappingURL=style.css.map */
